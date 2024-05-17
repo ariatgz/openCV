@@ -1,0 +1,14 @@
+﻿  chapter 5.cpp
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,49): warning C4244:         with
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,49): warning C4244:         [
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,49): warning C4244:             _Tp=int
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,49): warning C4244:         ]
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,46): warning C4244:         with
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,46): warning C4244:         [
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,46): warning C4244:             _Tp=int
+C:\Users\Aria\source\repos\openCV\openCV\chapter 5.cpp(23,46): warning C4244:         ]
+  LINK : C:\Users\Aria\source\repos\openCV\x64\Debug\openCV.exe not found or not built by the last incremental link; performing full link
+  openCV.vcxproj -> C:\Users\Aria\source\repos\openCV\x64\Debug\openCV.exe
